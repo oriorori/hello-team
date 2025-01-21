@@ -1,6 +1,7 @@
 # hello-team
 
-#### 자기소개
+## 김세현
+&nbsp;<img src="https://avatars.githubusercontent.com/Sehyeon1837" alt="프로필 이미지" width="50">
 
     닉네임: Sehyeon
     게임: RPG류
@@ -45,4 +46,6 @@
 - 많은 사람들과 협업하여 **재미있는 프로젝트**를 만들어 가고 싶습니다.
 -  **프로그래밍 기술**을 지속적으로 발전시켜, 혁신적인 게임을 개발하고 싶습니다.
 
-##
+## 박인서
+- 닉네임: PEeeeenur
+- 좋아하는 게임: 샌드박스 게임 전반
