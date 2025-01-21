@@ -7,7 +7,8 @@
     게임: RPG류
 
 ## 김건하
-<img width="100" height="100" src="./duck.jpg">
+<img width="200" height="150" src="./duck.jpg">
+
 - 닉네임: oriorori
 - 취미: 여행, 게임
 - 좋아하는 게임: 발더스게이트3, 오리 시리즈
