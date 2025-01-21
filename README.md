@@ -1,6 +1,7 @@
 # hello-team
 
-#### 자기소개
+## 김세현
+&nbsp;<img src="https://avatars.githubusercontent.com/Sehyeon1837" alt="프로필 이미지" width="50">
 
     닉네임: Sehyeon
     게임: RPG류
